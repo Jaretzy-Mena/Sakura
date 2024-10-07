@@ -1,0 +1,15 @@
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\bin\Debug\net6.0\Sakura.exe
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\bin\Debug\net6.0\Sakura.deps.json
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\bin\Debug\net6.0\Sakura.runtimeconfig.json
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\bin\Debug\net6.0\Sakura.dll
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\bin\Debug\net6.0\Sakura.pdb
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.csproj.AssemblyReference.cache
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.AssemblyInfoInputs.cache
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.AssemblyInfo.cs
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.csproj.CoreCompileInputs.cache
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.dll
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\refint\Sakura.dll
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.pdb
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\Sakura.genruntimeconfig.cache
+C:\Users\Jaretzy\OneDrive\Escritorio\Segundo Semestre 2024\IO\IO - Programación I\Sakura\Sakura\obj\Debug\net6.0\ref\Sakura.dll
